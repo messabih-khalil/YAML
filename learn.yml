@@ -1,0 +1,7 @@
+user:
+  username:
+    isNull: true
+    maxLength: 255
+
+  email:
+    type: str
